@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📖 I'm a sophomore student at HuazhongU of Sci. & Tech., and a member of @uniquelab.
+- 📖 I'm a sophomore student at Huazhong Univ. of Sci. & Tech., and a member of Lab@UniqueStudio.
 - 🎈 I'm now a ICPC contestant, preparing for 2024 Asia EC. I was once an OIer.
 - 🌱 I'm currently learning C / C++ / Python / Go / Rust, as well as ICS, discrete math, etc.
 - 🤩 I'm now interested in TSP & quant & parallel computing.
