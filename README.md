@@ -1,22 +1,12 @@
-## Hi there 👋
+### 👋 About Me
 
-<!--
-**leixy2004/leixy2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Sophomore** @ Turing Class, School of Computer Science & Technology, HUST
+- 🧑‍💻 **Lab Member** @ Unique Studio, HUST
+- 🤖 **ICPC Contestant**, preparing for **2024 Asia EC** (former OIer)
+- 💻 Learning: **C / C++ / Python / Go / Rust**, ICS, discrete math, etc.
+- 🚀 Interests: **TSP**, **quant**, and **parallel computing**
 
-Here are some ideas to get you started:
+### 📫 How to Reach Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 📖 I'm a sophomore student at Turing Class @ Huazhong Univ. of Sci. & Tech., and a member of Lab @ Unique Studio of HUST.
-- 🎈 I'm now an ICPC contestant, preparing for 2024 Asia EC. I was once an OIer.
-- 🌱 I'm currently learning C / C++ / Python / Go / Rust, as well as ICS, discrete math, etc.
-- 🤩 I'm now interested in TSP & quant & parallel computing.
-- 📫 How to reach me: xinyan_lei#outlook.com / leixy#hust.edu.cn.
+- xinyan_lei#outlook.com
+- leixy#hust.edu.cn
