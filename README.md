@@ -1,12 +1,11 @@
 ### 👋 About Me
 
-- 🎓 **Sophomore** @ Turing Class, School of Computer Science & Technology, HUST
-- 🧑‍💻 **Lab Member** @ Unique Studio, HUST
-- 🤖 **ICPC Contestant**, preparing for **2024 Asia EC** (former OIer)
-- 💻 Learning: **C / C++ / Python / Go / Rust**, ICS, discrete math, etc.
-- 🚀 Interests: **TSP**, **quant**, and **parallel computing**
+- 🎓 **Sophomore** at the Turing Class, School of Computer Science & Technology, HUST
+- 🧑‍💻 **Member** of the Lab at Unique Studio, HUST
+- 🎈 **Competitive Programmer** | Silver Medalist of the 2024 ICPC Asia Regional Contest (former OIer)
+- 💻 **Skills & Learning**: Proficient in **C / C++ / Python / Go / Rust**, with a focus on **ICS**, **discrete mathematics**, and more
 
 ### 📫 How to Reach Me
 
-- xinyan_lei#outlook.com
-- leixy#hust.edu.cn
+- 📧 **Email**: xinyan_lei#outlook.com  
+- 📧 **University Email**: leixy#hust.edu.cn  
